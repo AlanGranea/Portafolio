@@ -1,6 +1,10 @@
-#¡Hola, bienvenido a mi portafolio!
+# Portafolio - 
 
-## Herramientas utilizadas:
+## Descripción
+
+¡Hola, bienvenido a mi proyecto de portafolio! En él podrás leer cuales son mis habilidades en el ámbito laboral.
+
+## Tecnologías utilizadas
 * HTML
 * CSS
 * Flex-box
